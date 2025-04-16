@@ -22,10 +22,11 @@ A text-based survival game written in Motorola 68000 Assembly. Players navigate 
 ## Setup & Build
 
 1. **Clone this repository:**
-   ```
-   git clone <repo-url>
-   cd <repo-directory>
-   ```
+   
+git clone https://github.com/NikoloziGagua/Survive.git
+
+cd Survive
+   
 2. **Open** `PROJECT.X68` in Easy68K.
 3. **Assemble the code:**
    - Go to *Assemble* → *Create Output File*
